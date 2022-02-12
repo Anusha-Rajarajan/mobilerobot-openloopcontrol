@@ -65,7 +65,7 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Video:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtube.com/shorts/P3YG3rxl1Zw?feature=share)
+https://youtube.com/shorts/P3YG3rxl1Zw?feature=share
 
 
 ## Result:
